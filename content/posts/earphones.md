@@ -5,7 +5,8 @@ draft: false
 ---
 
 # Under $20 | ₹1700
-&nbsp;
+___
+
 ### Realme Buds Q2
 - ANC decent for the price
 - IPX5 water resistant
@@ -40,3 +41,5 @@ ___
 |--|--|--|
 
 _Please consider buying the product via the links mentioned above - it helps us fund this website at no extra cost to you_
+
+> To make your earpbuds sound better you can use [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) on Android
