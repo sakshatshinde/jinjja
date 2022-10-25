@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://jinjja.pages.dev'
 languageCode = 'en-us'
 title = 'Jinjja 진짜'
 theme = 'diary'
