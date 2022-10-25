@@ -29,8 +29,8 @@ ___
 ### Moondrop - Chu
 - Very good out of the box tuning, IEMs
 - Flat sound signature
-- N52 Neodymium magnet
-- Amazing value for money - ChiFi
+- N52 Neodymium drivers
+- Amazing value for money - ChiFi 🇨🇳cd 
 
 `Frequency Response Moondrop - Chu` | `Credit Crinacle`
 
