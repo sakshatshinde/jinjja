@@ -26,8 +26,8 @@ _Please consider buying the product via the links mentioned above - it helps us 
 ___
 
 
-### Moondrop - Chu IEM
-- Very good out of the box tuning
+### Moondrop - Chu
+- Very good out of the box tuning, IEMs
 - Flat sound signature
 - N52 Neodymium magnet
 - Amazing value for money - ChiFi
