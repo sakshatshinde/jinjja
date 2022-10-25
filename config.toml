@@ -1,0 +1,17 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Jinjja 진짜'
+theme = 'diary'
+
+[params]
+subtitle = 'Find the best products for your cash'
+# enableGitalk = true
+
+[author]
+  name = 'Sakshat Shinde'
+
+[params.twitter]
+  # set Twitter handles for Twitter cards
+  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
+  # do not include @
+  creator = "sakshatshinde"
