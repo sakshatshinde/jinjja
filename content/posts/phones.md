@@ -3,6 +3,8 @@ title: "📱Phones"
 date: 2022-10-25T10:55:41+05:30
 draft: false
 ---
+> Consider buying a Samsung for features like Bixby Routines and Samsung Dex, not sponsored
+
 # Under $350 | ₹30000
 ___
 
@@ -40,7 +42,7 @@ ___
 - OLED, HDR, 60 Hz Refresh Rate
 - Widevine L1
 
-> Note: Google devices are known to have software issues
+> Google devices are known to have software issues
 
 ![Google Pixel 6a 5G](https://lh3.googleusercontent.com/4kZ0CrsvWq8_aSb4ymObnrdVtKVKdPWTnX7Z6vTlq4pEoaP7ilqtDyjZf--ZoiueJr8aPCkVxieRnocKZC4DuNcsfZEpl9z7g5NPq3V14eSLNpCqEyCj0m1NfRSoa_xEhGB3=s415-c)
 
@@ -76,3 +78,5 @@ _Please consider buying products via the links mentioned above - it helps us fun
 
 <!-- Samsung S21 FE 5G -->
 <a href="https://www.amazon.in/Samsung-Snapdragon-Phantom-White-Storage/dp/B0BK6XVJ54?crid=NDM1M7LXRDZF&keywords=s21+fe+5g&qid=1666787095&qu=eyJxc2MiOiI0LjA1IiwicXNhIjoiMy45NCIsInFzcCI6IjIuNTgifQ%3D%3D&sprefix=s21%2Caps%2C227&sr=8-4&linkCode=li1&tag=jinjja-21&linkId=04b66cae593d8cc875b3599d9a677ab0&language=en_IN&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0BK6XVJ54&Format=_SL110_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=jinjja-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=jinjja-21&language=en_IN&l=li1&o=31&a=B0BK6XVJ54" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+> S22 FE has been cancelled due to supply shortages in the production of S22 Ultra | [The Elec](https://www.thelec.net/) 🇰🇷
