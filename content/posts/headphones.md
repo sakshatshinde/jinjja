@@ -22,6 +22,6 @@ draft: false
 | _Akg K72_ | [Amazon](https://www.amazon.in/AKG-K72-Close-Back-Studio-Headphones/dp/B01AYSNHVQ) | [Flipkart](https://www.flipkart.com/akg-k72-closed-back-wired-without-mic-headset/p/itmb351f6681cb46)|
 |----|---|---|
 
-_Please consider buying the product via the links mentioned above - it helps us fund this website at no extra cost to you_
+_Please consider buying products via the links mentioned above - it helps us fund this website at no extra cost to you_
 
 ___

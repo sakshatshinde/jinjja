@@ -40,6 +40,6 @@ ___
 | Moondrop - Chu | [HeadphoneZone](https://www.headphonezone.in/products/moondrop-chu) | [Amazon](https://www.amazon.in/Moondrop-CHU-Performance-Dynamic-Earphone/dp/B09XHTHG61) | 
 |--|--|--|
 
-_Please consider buying the product via the links mentioned above - it helps us fund this website at no extra cost to you_
+_Please consider buying products via the links mentioned above - it helps us fund this website at no extra cost to you_
 
 > To make your earpbuds sound better you can use [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) on Android
