@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Jinjja 진짜'
 theme = 'diary'
 enableRobotsTXT = true
+googleAnalytics = 'G-2JV305BNZH'
 
 [markup]
   [markup.goldmark]
