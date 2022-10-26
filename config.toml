@@ -2,6 +2,7 @@ baseURL = 'https://jinjja.pages.dev'
 languageCode = 'en-us'
 title = 'Jinjja 진짜'
 theme = 'diary'
+enableRobotsTXT = true
 
 [markup]
   [markup.goldmark]
@@ -10,7 +11,7 @@ theme = 'diary'
 
 [params]
 subtitle = 'Find the best products for your cash'
-# enableGitalk = true
+description = 'Jinjja is a place to find the best products for your cash, we only list one choice - our aim is to reduce decision fatigue for the end user.'
 
 [author]
   name = 'Sakshat Shinde'
