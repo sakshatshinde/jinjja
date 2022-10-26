@@ -1,10 +1,8 @@
 ---
 title: "📱Phones"
-date: 2022-10-25T10:55:41+05:30
+date: 2022-10-27T08:00:41+05:30
 draft: false
 ---
-> Consider buying a Samsung for features like Bixby Routines and Samsung Dex, not sponsored
-
 # Under $350 | ₹30000
 ___
 
@@ -29,6 +27,9 @@ _Please consider buying products via the links mentioned above - it helps us fun
 
 <!-- Samsung S20 FE 5G -->
 <a href="https://www.amazon.in/Samsung-Galaxy-Cloud-128GB-Storage/dp/B08VB57558?crid=1NFRIJC7SYPM0&keywords=SAMSUNG+Galaxy+S21+FE&qid=1666785648&qu=eyJxc2MiOiI0LjIzIiwicXNhIjoiMy45OCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=samsung+galaxy+s21+fe%2Caps%2C178&sr=8-4&linkCode=li1&tag=jinjja-21&linkId=3fee6afd05a97c3620caddae21ebf892&language=en_IN&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08VB57558&Format=_SL110_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=jinjja-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=jinjja-21&language=en_IN&l=li1&o=31&a=B08VB57558" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+> Consider buying a Samsung for features like [_Bixby Routines_](https://www.samsung.com/global/galaxy/what-is/bixby-routines/) and [_Samsung Dex_](https://www.samsung.com/in/apps/samsung-dex/)
+
 ___
 
 # Under $400 | ₹35000
@@ -53,6 +54,10 @@ _Please consider buying products via the links mentioned above - it helps us fun
 
 <!-- Google Pixel 6a 5G -->
 <a href="https://www.amazon.in/Google-Pixel-Sage-128GB-Storage/dp/B0B3Q23BT4?crid=2PPLOUP44RX8Y&keywords=pixel+6a&qid=1666786167&qu=eyJxc2MiOiIzLjcyIiwicXNhIjoiMi43NyIsInFzcCI6IjMuMTcifQ%3D%3D&sprefix=pixel+6%2Caps%2C235&sr=8-2&linkCode=li1&tag=jinjja-21&linkId=e15e012cc1e1f4d92fb93b1295ddde46&language=en_IN&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0B3Q23BT4&Format=_SL110_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=jinjja-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=jinjja-21&language=en_IN&l=li1&o=31&a=B0B3Q23BT4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+> Consider buying a Pixel for features like [_Call Screen_](https://support.google.com/phoneapp/answer/9118387?hl=en) and [_Face Unblur_](https://www.androidauthority.com/face-photo-unblur-pixel-3217580/)
+
+___
 
 # Under $600 | ₹50000
 ___
