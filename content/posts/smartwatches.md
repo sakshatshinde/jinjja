@@ -3,6 +3,8 @@ title: "⌚Smartwatches"
 date: 2022-10-26T10:55:41+05:30
 draft: false
 ---
+<link rel="stylesheet" href="/styles.css">
+
 # Under $60 | ₹5000
 ___
 
@@ -19,8 +21,10 @@ ___
 
 ___
 
-| _Amazfit Bip U Pro_ | [Amazon](https://amzn.to/3TGxW4o) |
-|----|---|
+<!-- | _Amazfit Bip U Pro_ | [Amazon](https://amzn.to/3TGxW4o) |
+|----|---| -->
+
+<button class="button-58" role="button" onclick="location.href='https://amzn.to/3TGxW4o'" >Buy on Amazon 🛍️</button>
 
 _Please consider buying products via the links mentioned above - it helps us fund this website at no extra cost to you_
 

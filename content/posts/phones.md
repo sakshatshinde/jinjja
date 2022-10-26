@@ -3,6 +3,8 @@ title: "📱Phones"
 date: 2022-10-26T19:00:41+05:30
 draft: false
 ---
+<link rel="stylesheet" href="/styles.css">
+
 # Under $350 | ₹30000
 ___
 
@@ -20,8 +22,10 @@ ___
 
 ___
 
-| _Samsung S20 FE 5G_ | [Amazon](https://amzn.to/3W5RReM) |
-|----|---|
+<!-- | _Samsung S20 FE 5G_ | [Amazon](https://amzn.to/3W5RReM) |
+|----|---| -->
+
+<button class="button-58" role="button" onclick="location.href='https://amzn.to/3W5RReM'" >Buy on Amazon 🛍️</button>
 
 _Please consider buying products via the links mentioned above - it helps us fund this website at no extra cost to you_
 
@@ -47,8 +51,10 @@ ___
 
 ![Google Pixel 6a 5G](https://lh3.googleusercontent.com/4kZ0CrsvWq8_aSb4ymObnrdVtKVKdPWTnX7Z6vTlq4pEoaP7ilqtDyjZf--ZoiueJr8aPCkVxieRnocKZC4DuNcsfZEpl9z7g5NPq3V14eSLNpCqEyCj0m1NfRSoa_xEhGB3=s415-c)
 
-| _Google Pixel 6a 5G_ | [Amazon](https://amzn.to/3SzzVGh) |
-|----|---|
+<!-- | _Google Pixel 6a 5G_ | [Amazon](https://amzn.to/3SzzVGh) |
+|----|---| -->
+
+<button class="button-58" role="button" onclick="location.href='https://amzn.to/3SzzVGh'" >Buy on Amazon 🛍️</button>
 
 _Please consider buying products via the links mentioned above - it helps us fund this website at no extra cost to you_
 
@@ -76,8 +82,10 @@ ___
 
 ___
 
-| _Samsung S21 FE 5G_ | [Amazon](https://amzn.to/3FildAx) |
-|----|---|
+<!-- | _Samsung S21 FE 5G_ | [Amazon](https://amzn.to/3FildAx) |
+|----|---| -->
+
+<button class="button-58" role="button" onclick="location.href='https://amzn.to/3FildAx'" >Buy on Amazon 🛍️</button>
 
 _Please consider buying products via the links mentioned above - it helps us fund this website at no extra cost to you_
 
