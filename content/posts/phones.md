@@ -59,11 +59,11 @@ ___
 
 ### Samsung S21 FE 5G
 
-- Qualcomm Snapdragon 865
-- 6.5-inch Super AMOLED Display 
+- Qualcomm SM8350 Snapdragon 888 5G / Exynos 2100
+- 6.4-inch Dynamic AMOLED Display, HDR10+
 - 120 Hz Refresh Rate
 - IP68 Rated
-- 8GB RAM, 128GB internal memory
+- 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM
 - Widevine L1
 ___
 
