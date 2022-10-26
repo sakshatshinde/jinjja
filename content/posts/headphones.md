@@ -4,7 +4,8 @@ date: 2022-10-25T20:55:41+05:30
 draft: false
 ---
 # Under $40 | ₹3000
-&nbsp;
+___
+
 ### Akg K72
 - Over Ear
 - Closed-back, V-shaped	
@@ -15,7 +16,6 @@ draft: false
 `Frequency Akg K72` | `Credit Crinacle`
 
 ![Credit DigitIn](https://crinacle.com/wp-content/uploads/2020/09/K72.jpg)
-
 
 > Note: Use _[AutoEQ](https://github.com/jaakkopasanen/AutoEq)_ to make them sound better
 
