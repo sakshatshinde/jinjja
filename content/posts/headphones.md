@@ -1,5 +1,5 @@
 ---
-title: "🎶Headphones"
+title: "🎵Headphones"
 date: 2022-10-25T20:55:41+05:30
 draft: false
 ---
