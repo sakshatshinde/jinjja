@@ -2,6 +2,10 @@
 title: "🎵Headphones"
 date: 2022-10-25T20:55:41+05:30
 draft: false
+featured_image: "https://den-fi.com/content/images/2022/06/Graph.gif"
+description: Best headphones to buy right now
+# tags: [electronics]
+# categories: audio
 ---
 <link rel="stylesheet" href="/styles.css">
 

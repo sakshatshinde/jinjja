@@ -2,6 +2,10 @@
 title: "🎶Earphones"
 date: 2022-10-25T19:55:41+05:30
 draft: false
+featured_image: "https://www.audiosciencereview.com/forum/index.php?attachments/3020i-horizontal-png.41060/"
+description: Best earphones to buy right now
+# tags: [electronics]
+# categories: audio
 ---
 <link rel="stylesheet" href="/styles.css">
 

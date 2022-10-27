@@ -2,6 +2,8 @@
 title: "📱Phones"
 date: 2022-10-26T19:00:41+05:30
 draft: false
+featured_image: "https://cdn.pocket-lint.com/r/s/970x/assets/images/120309-phones-news-buyer-s-guide-best-smartphones-image66-camkvh2lyz-jpg.webp?v1"
+description: Best phones to buy right now
 ---
 <link rel="stylesheet" href="/styles.css">
 
