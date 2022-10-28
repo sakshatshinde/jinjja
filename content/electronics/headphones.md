@@ -1,6 +1,6 @@
 ---
 title: "🎵Headphones"
-date: 2022-10-25T20:55:41+05:30
+date: 2022-10-28T00:55:41+05:30
 draft: false
 featured_image: "https://den-fi.com/content/images/2022/06/Graph.gif"
 description: Best headphones to buy right now
@@ -36,6 +36,7 @@ ___
 ___
 
 ### Beyerdynamic DT 770 PRO
+
 - Over Ear
 - Variants: 32, 80 & 250 Ω 
 - Flat detailed sound, accurate sub bass

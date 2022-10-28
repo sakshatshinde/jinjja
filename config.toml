@@ -14,6 +14,28 @@ googleAnalytics = 'G-2JV305BNZH'
 subtitle = 'Find the best products for your cash'
 description = 'Jinjja is a place to find the best products for your cash, we only list one choice - our aim is to reduce decision fatigue for the end user.'
 
+[menu]
+[[menu.main]]
+  identifier = 'subscribe'
+  name = 'Subscribe'
+  url = '/subscribe/'
+
+[[menu.main]]
+  identifier = 'about'
+  name = 'About Jinjja'
+  url = '/about/'
+
+[[menu.main]]
+  identifier = 'electronics'
+  name = 'Electronics'
+  url = '/electronics/'
+
+[[menu.main]]
+  identifier = 'beauty'
+  name = 'Beauty'
+  url = '/beauty/'
+
+
 [author]
   name = 'Sakshat Shinde'
 
