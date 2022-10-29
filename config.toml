@@ -10,6 +10,12 @@ googleAnalytics = 'G-2JV305BNZH'
     [markup.goldmark.renderer]
       unsafe = true
 
+
+[sitemap]
+  changefreq = 'daily'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
 [params]
 subtitle = 'Find the best products for your cash'
 description = 'Jinjja is a place to find the best products for your cash, we only list one choice - our aim is to reduce decision fatigue for the end user.'
