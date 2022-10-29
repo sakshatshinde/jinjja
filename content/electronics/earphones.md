@@ -58,3 +58,25 @@ ___
 _Please consider buying products via the links mentioned above - it helps us fund this website at no extra cost to you_
 
 > To make your earpbuds sound better you can use [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) on Android
+
+___
+
+# Under $100 | ₹8000
+___
+
+### Samsung Galaxy Buds Pro
+- Great ANC, Battery life with ANC: 5h, without 8h
+- IPX7 water resistant
+- Warm V-shape
+- Good balance in the midrange
+
+`Frequency Response Samsung Galaxy Buds Pro` | `Credit Crinacle`
+
+![Credit Crinacle](https://crinacle.com/wp-content/uploads/2021/01/Buds-pro-x-Harman-target-768x332.png)
+
+<button class="button-58" role="button" onclick="location.href='https://amzn.to/3fgsdmO'" >Buy on Amazon</button>
+
+<!-- Samsung Galaxy Buds Pro Amazon Small embed -->
+<a href="https://www.amazon.in/Samsung-Galaxy-Ear-Buds-Black/dp/B08SKDXKZF?crid=1KPS3AVJ0C64W&keywords=galaxy+buds+pro&qid=1667032020&qu=eyJxc2MiOiIyLjgxIiwicXNhIjoiMS42NSIsInFzcCI6IjEuMjcifQ%3D%3D&sprefix=galaxy+buds+pro%2Caps%2C206&sr=8-3&linkCode=li1&tag=jinjja-21&linkId=22a6bf518629d1d6198f0d6c504b94a4&language=en_IN&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08SKDXKZF&Format=_SL110_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=jinjja-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=jinjja-21&language=en_IN&l=li1&o=31&a=B08SKDXKZF" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+_Please consider buying the product via the links mentioned above - it helps us fund this website at no extra cost to you_
