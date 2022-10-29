@@ -9,6 +9,9 @@ description: Best earphones to buy right now
 ---
 <link rel="stylesheet" href="/styles.css">
 
+> To make your earbuds sound better you can use [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) on Android
+
+
 # Under $20 | ₹1700
 ___
 
@@ -21,8 +24,7 @@ ___
 
 ![Credit DigitIn](https://static.digit.in/default/5bb838b95631d6719457ee8308604f73ef9710d5.jpeg)
 
-
-> Note: These might be a bit bass heavy - however the normal mode in the app makes them sound decent
+> These might be a bit bass heavy - however the normal mode in the app makes them sound decent
 
 <!-- | _Realme Buds Q2_ | [Amazon](https://amzn.to/3gK3Zle) | [Flipkart](https://www.flipkart.com/realme-buds-q2-active-noise-cancellation-bluetooth-headset/p/itmc147963831a86)|
 |----|---|---| -->
@@ -56,8 +58,28 @@ ___
 <a href="https://www.amazon.in/Moondrop-CHU-Performance-Dynamic-Earphone/dp/B09XHTHG61?qu=eyJxc2MiOiIyLjkyIiwicXNhIjoiMi4yMyIsInFzcCI6IjAuNTkifQ%3D%3D&linkCode=li1&tag=jinjja-21&linkId=f0609bfb927434b64d931a66d25e4934&language=en_IN&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09XHTHG61&Format=_SL110_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=jinjja-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=jinjja-21&language=en_IN&l=li1&o=31&a=B09XHTHG61" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 _Please consider buying products via the links mentioned above - it helps us fund this website at no extra cost to you_
+___
 
-> To make your earpbuds sound better you can use [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) on Android
+# Under $60 | ₹5000
+___
+
+### Realme Buds Air 3
+- Decent ANC for the price 
+- IPX5 water resistant
+- Codecs: SBC,AAC
+
+> These are a bit bass heavy
+
+`Frequency Response Samsung Galaxy Buds Pro` | `Credit DigitIn`
+
+![Credit DigitIn](https://static.digit.in/default/d11d28c3d4b7c1692c781e4e64e21765402aa670.jpeg)
+
+<button class="button-58" role="button" onclick="location.href='https://amzn.to/3zrkjOm'" >Buy on Amazon</button>
+
+<!-- Realme Buds Air 3 Amazon Small embed -->
+<a href="https://www.amazon.in/realme-Cancellation-Bluetooth-Headset-Wireless/dp/B0B8H61SR4?crid=29B5R1T2OMYYU&keywords=Realme+Buds+Air+3&qid=1667055033&qu=eyJxc2MiOiI0LjQ1IiwicXNhIjoiMy44NCIsInFzcCI6IjMuNTMifQ%3D%3D&sprefix=realme+buds+air+3%2Caps%2C190&sr=8-2&linkCode=li1&tag=jinjja-21&linkId=4e9665da1ec4d7b04e7fac19d0fe7372&language=en_IN&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0B8H61SR4&Format=_SL110_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=jinjja-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=jinjja-21&language=en_IN&l=li1&o=31&a=B0B8H61SR4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+_Please consider buying the product via the links mentioned above - it helps us fund this website at no extra cost to you_
 
 ___
 
