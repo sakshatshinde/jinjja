@@ -38,7 +38,6 @@ _Please consider buying the product via the links mentioned above - it helps us 
 
 ___
 
-
 ### Moondrop - Chu
 - Very good out of the box tuning, IEMs
 - Flat sound signature
@@ -64,13 +63,14 @@ ___
 ___
 
 ### Realme Buds Air 3
+
 - Decent ANC for the price 
 - IPX5 water resistant
 - Codecs: SBC,AAC
 
 > These are a bit bass heavy
 
-`Frequency Response Samsung Galaxy Buds Pro` | `Credit DigitIn`
+`Frequency Response Realme Buds Air 3` | `Credit DigitIn`
 
 ![Credit DigitIn](https://static.digit.in/default/d11d28c3d4b7c1692c781e4e64e21765402aa670.jpeg)
 
