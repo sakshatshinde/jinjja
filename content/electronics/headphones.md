@@ -2,7 +2,7 @@
 title: "🎵Headphones"
 date: 2022-10-28T00:55:41+05:30
 draft: false
-featured_image: "https://den-fi.com/content/images/2022/06/Graph.gif"
+featured_image: "/images/electronics/headphones_banner.webp"
 description: Best headphones to buy right now
 # tags: [electronics]
 # categories: audio
@@ -21,7 +21,7 @@ ___
 
 `Frequency Response Akg K72` | `Credit Crinacle`
 
-![Credit DigitIn](https://crinacle.com/wp-content/uploads/2020/09/K72.jpg)
+![Credit DigitIn](/images/electronics/fr_akg_k72.webp)
 
 <!-- HTML-->
 <button class="button-58" role="button" onclick="location.href='https://amzn.to/3N6RufH'" >Buy on Amazon 🛍️</button>
@@ -45,7 +45,7 @@ ___
 
 `Frequency Response Beyerdynamic DT 770 PRO 80Ω` | `Credit Crinacle`
 
-![Credit Crinacle](https://crinacle.com/wp-content/uploads/2020/09/DT770-Pro-80%CE%A9.jpg)
+![Credit Crinacle](/images/electronics/fr_dt770_pro_80_ohm.webp)
 
 > The 32Ω variant works with laptops and phones, 80Ω variant is the sweet spot with anyone with a decent amp
 

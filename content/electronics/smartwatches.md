@@ -2,7 +2,7 @@
 title: "⌚Smartwatches"
 date: 2022-10-26T10:55:41+05:30
 draft: false
-featured_image: "https://www.digitaltrends.com/wp-content/uploads/2022/08/apple-watch-series-7-vs-samsung-galaxy-watch-5.jpg"
+featured_image: "/images/electronics/smartwatches_banner.webp"
 description: Best smartwatches to buy right now
 ---
 <link rel="stylesheet" href="/styles.css">
@@ -19,7 +19,7 @@ ___
 - SpO2 and heartrate tracking
 ___
 
-![Amazfit Bip U Pro](https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/bip_u.jpg)
+![Amazfit Bip U Pro](/images/electronics/bip_u.webp)
 
 ___
 

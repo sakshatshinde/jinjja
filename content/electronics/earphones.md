@@ -2,7 +2,7 @@
 title: "🎶Earphones"
 date: 2022-10-29T19:55:41+05:30
 draft: false
-featured_image: "https://www.audiosciencereview.com/forum/index.php?attachments/3020i-horizontal-png.41060/"
+featured_image: "images/electronics/earphones_banner.webp"
 description: Best earphones to buy right now
 # tags: [electronics]
 # categories: audio
@@ -22,12 +22,9 @@ ___
 
 `Frequency Response Realme Buds Q2` | `Credit DigitIn`
 
-![Credit DigitIn](https://static.digit.in/default/5bb838b95631d6719457ee8308604f73ef9710d5.jpeg)
+![Credit DigitIn](/images/electronics/fr_realme_buds_q2.webp)
 
 > These might be a bit bass heavy - however the normal mode in the app makes them sound decent
-
-<!-- | _Realme Buds Q2_ | [Amazon](https://amzn.to/3gK3Zle) | [Flipkart](https://www.flipkart.com/realme-buds-q2-active-noise-cancellation-bluetooth-headset/p/itmc147963831a86)|
-|----|---|---| -->
 
 <button class="button-58" role="button" onclick="location.href='https://amzn.to/3gK3Zle'" >Buy on Amazon</button>
 
@@ -46,7 +43,7 @@ ___
 
 `Frequency Response Moondrop - Chu` | `Credit Crinacle`
 
-![Credit Crinacle](https://cdn.shopify.com/s/files/1/0153/8863/files/Headphone-Zone-Moondrop-Chu-Banner.jpg?v=1657354246)
+![Credit Crinacle](/images/electronics/fr_moondrop_chu.webp)
 
 <!-- | Moondrop - Chu | [Amazon](https://amzn.to/3TCoNKb) | 
 |--|--| -->
@@ -72,7 +69,7 @@ ___
 
 `Frequency Response Realme Buds Air 3` | `Credit DigitIn`
 
-![Credit DigitIn](https://static.digit.in/default/d11d28c3d4b7c1692c781e4e64e21765402aa670.jpeg)
+![Credit DigitIn](/images/electronics/fr_realme_buds_air_3.webp)
 
 <button class="button-58" role="button" onclick="location.href='https://amzn.to/3zrkjOm'" >Buy on Amazon</button>
 
@@ -94,7 +91,7 @@ ___
 
 `Frequency Response Samsung Galaxy Buds Pro` | `Credit Crinacle`
 
-![Credit Crinacle](https://crinacle.com/wp-content/uploads/2021/01/Buds-pro-x-Harman-target-768x332.png)
+![Credit Crinacle](/images/electronics/fr_samsung_buds_pro.webp)
 
 <button class="button-58" role="button" onclick="location.href='https://amzn.to/3fgsdmO'" >Buy on Amazon</button>
 
