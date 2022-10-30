@@ -1,5 +1,5 @@
 baseURL = 'https://jinjja.pages.dev'
-languageCode = 'en-us'
+defaultContentLang = 'en'
 title = 'Jinjja 진짜'
 theme = 'diary'
 enableRobotsTXT = true
