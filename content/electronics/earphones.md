@@ -1,6 +1,6 @@
 ---
 title: "🎶Earphones"
-date: 2022-10-29T19:55:41+05:30
+date: 2022-10-30T11:55:41+05:30
 draft: false
 featured_image: "images/electronics/earphones_banner.webp"
 description: Best earphones to buy right now

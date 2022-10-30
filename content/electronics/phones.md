@@ -2,7 +2,7 @@
 title: "📱Phones"
 date: 2022-10-26T19:00:41+05:30
 draft: false
-featured_image: "https://cdn.pocket-lint.com/r/s/970x/assets/images/120309-phones-news-buyer-s-guide-best-smartphones-image66-camkvh2lyz-jpg.webp?v1"
+featured_image: "/images/electronics/banner_phones.webp"
 description: Best phones to buy right now
 ---
 <link rel="stylesheet" href="/styles.css">
@@ -20,7 +20,7 @@ ___
 - Widevine L1
 ___
 
-![Samsung S20 FE 5G](https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-s20/buy/1-pc.png?imwidth=768)
+![Samsung S20 FE 5G](/images/electronics/s20_fe_5g.webp)
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 > Google devices are known to have software issues
 
-![Google Pixel 6a 5G](https://lh3.googleusercontent.com/4kZ0CrsvWq8_aSb4ymObnrdVtKVKdPWTnX7Z6vTlq4pEoaP7ilqtDyjZf--ZoiueJr8aPCkVxieRnocKZC4DuNcsfZEpl9z7g5NPq3V14eSLNpCqEyCj0m1NfRSoa_xEhGB3=s415-c)
+![Google Pixel 6a 5G](/images/electronics/pixel_6a_5g.webp)
 
 <!-- | _Google Pixel 6a 5G_ | [Amazon](https://amzn.to/3SzzVGh) |
 |----|---| -->
@@ -80,7 +80,7 @@ ___
 - Widevine L1
 ___
 
-![Samsung S21 FE 5G](https://images.samsung.com/is/image/samsung/assets/in/2201/preorder/1_image_carousel/1_group_kv1/S21FE_Carousel_GroupKV1_PC.jpg?imwidth=1366)
+![Samsung S21 FE 5G](/images/electronics/S21FE_Carousel_GroupKV1_PC.webp)
 
 ___
 
