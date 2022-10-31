@@ -26,6 +26,12 @@ description = 'Jinjja is a place to find the best products for your cash, we onl
   name = 'Subscribe'
   url = '/subscribe/'
 
+[server]
+[[server.headers]]
+  for = '/**.xml'
+  [server.headers.values]
+    Content-Type = 'application/xml'
+
 [[menu.main]]
   identifier = 'about'
   name = 'About Jinjja'
