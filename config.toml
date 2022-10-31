@@ -28,7 +28,7 @@ description = 'Jinjja is a place to find the best products for your cash, we onl
 
 [server]
 [[server.headers]]
-  for = '/**.xml'
+  for = '/sitemap.xml'
   [server.headers.values]
     Content-Type = 'application/xml'
 
