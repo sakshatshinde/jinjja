@@ -1,6 +1,6 @@
 ---
 title: "🛒Amazon"
-date: 2022-11-04T19:55:41+05:30
+date: 2022-10-04T19:55:41+05:30
 draft: false
 featured_image: "images/other/prime_music.jpg"
 description: Amazon Promotions
