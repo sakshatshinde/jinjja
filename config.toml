@@ -47,6 +47,10 @@ description = 'Jinjja is a place to find the best products for your cash, we onl
   name = 'Beauty'
   url = '/beauty/'
 
+[[menu.main]]
+  identifier = 'promo'
+  name = 'Promotions'
+  url = '/promo/'
 
 [author]
   name = 'Sakshat Shinde'
