@@ -1,4 +1,2 @@
-# jinjja
-A static site for best bang for the buck products
-
-https://jinjja.pages.dev/
+# [Jinjja](https://jinjja.pages.dev/)
+## Find the best products for your cash
