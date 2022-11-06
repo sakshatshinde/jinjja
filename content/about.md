@@ -19,4 +19,4 @@ Off course I'd make money via Affiliate links but I'd never take any sponsorship
 
 Everything which gets posted would be the best pick (according to me - which you can disagree with and even suggest a better option)
 
-You can contact us on instagram @jinjja.products
+You can contact us on instagram `@jinjja.products`
