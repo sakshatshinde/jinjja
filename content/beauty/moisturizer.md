@@ -9,7 +9,7 @@ description: Best moisturizers to buy right now
 ---
 <link rel="stylesheet" href="/styles.css">
 
-# Under $10 | ₹100
+# Under $10 | ₹1000
 ___
 ### Cetaphil Moisturizing Lotion
 `2021 Formula`
