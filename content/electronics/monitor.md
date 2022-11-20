@@ -3,7 +3,7 @@ title: "🖥️Monitors"
 date: 2022-11-20T08:55:41+05:30
 draft: false
 featured_image: "/images/electronics/monitors/main-hero-banner.webp"
-description: Best Monitors to buy right now
+description: Best Monitors to buy in 2022
 ---
 <link rel="stylesheet" href="/styles.css">
 
@@ -17,7 +17,7 @@ ___
 - HDR (at this price you won't find real HDR)
 - Panel type: IPS (Panda panel)
 - Contrast 1500:1
-- Don't worry about overshoot on this model
+- Don't worry about overshoot on this model ❤️
 ___
 
 ![AOC 24G2U](/images/electronics/monitors/aoc_24g2u.jpg)

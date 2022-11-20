@@ -3,7 +3,7 @@ title: "🎵Headphones"
 date: 2022-10-28T00:55:41+05:30
 draft: false
 featured_image: "/images/electronics/headphones_banner.webp"
-description: Best headphones to buy right now
+description: Best headphones to buy in 2022
 # tags: [electronics]
 # categories: audio
 ---
@@ -39,7 +39,7 @@ ___
 
 - Over Ear
 - Variants: 32, 80 & 250 Ω 
-- Flat detailed sound, accurate sub bass
+- Flat detailed sound, accurate sub bass ❤️
 - Great comfort
 - These make sense as computer cans
 

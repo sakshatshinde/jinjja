@@ -3,7 +3,7 @@ title: "⌚Smartwatches"
 date: 2022-10-26T10:55:41+05:30
 draft: false
 featured_image: "/images/electronics/smartwatches_banner.webp"
-description: Best smartwatches to buy right now
+description: Best smartwatches to buy in 2022
 ---
 <link rel="stylesheet" href="/styles.css">
 
@@ -15,7 +15,7 @@ ___
 - Built-in GPS
 - Battery (light use - 9d, heavy use - 5d)
 - Precise sleep tracking
-- 5 ATM Water-resistant (50 meters)
+- 5 ATM Water-resistant (50 meters) ❤️
 - SpO2 and heartrate tracking
 ___
 

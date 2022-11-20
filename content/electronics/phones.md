@@ -3,7 +3,7 @@ title: "📱Phones"
 date: 2022-10-26T19:00:41+05:30
 draft: false
 featured_image: "/images/electronics/banner_phones.webp"
-description: Best phones to buy right now
+description: Best phones to buy in 2022
 ---
 <link rel="stylesheet" href="/styles.css">
 
@@ -14,7 +14,7 @@ ___
 
 - Qualcomm Snapdragon 865
 - 6.5-inch Super AMOLED Display 
-- 120 Hz Refresh Rate
+- 120 Hz Refresh Rate ❤️
 - IP68 Rated
 - 8GB RAM, 128GB internal memory
 - Widevine L1
@@ -74,7 +74,7 @@ ___
 
 - Qualcomm SM8350 Snapdragon 888 5G / Exynos 2100
 - 6.4-inch Dynamic AMOLED Display, HDR10+
-- 120 Hz Refresh Rate
+- 120 Hz Refresh Rate ❤️
 - IP68 Rated
 - 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM
 - Widevine L1

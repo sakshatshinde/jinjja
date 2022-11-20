@@ -3,7 +3,7 @@ title: "🎶Earphones"
 date: 2022-10-30T11:55:41+05:30
 draft: false
 featured_image: "images/electronics/earphones_banner.webp"
-description: Best earphones to buy right now
+description: Best earphones to buy in 2022
 # tags: [electronics]
 # categories: audio
 ---
@@ -16,7 +16,7 @@ description: Best earphones to buy right now
 ___
 
 ### Realme Buds Q2
-- ANC decent for the price
+- ANC decent for the price ❤️
 - IPX5 water resistant
 - Bluetooth 5.2
 
@@ -37,7 +37,7 @@ ___
 
 ### Moondrop - Chu
 - Very good out of the box tuning, IEMs
-- Flat sound signature
+- Flat sound signature ❤️
 - N52 Neodymium drivers
 - Amazing value for money
 
@@ -86,7 +86,7 @@ ___
 ### Samsung Galaxy Buds Pro
 - Great ANC, Battery life with ANC: 5h, without 8h
 - IPX7 water resistant
-- Warm V-shape
+- Warm V-shape ❤️
 - Good balance in the midrange
 
 `Frequency Response Samsung Galaxy Buds Pro` | `Credit Crinacle`
