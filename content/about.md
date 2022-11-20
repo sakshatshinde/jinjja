@@ -5,7 +5,7 @@
 
 ---
 
-Jinjja exists so you can find the best products for within a price range and avoid `decision fatigue`
+Jinjja exists so you can find the best products within a price range and avoid `decision fatigue`
 
 > Decision fatigue refers to the deteriorating quality of decisions made by an individual after a long session of decision making. It may also lead to consumers making poor choices with their purchases. 
 
