@@ -1,6 +1,6 @@
 ---
 title: "📺TVs"
-date: 2022-11-21T08:55:41+05:30
+date: 2022-11-20T08:55:41+05:30
 draft: false
 featured_image: "/images/electronics/TV/tv_banner.webp"
 description: Best TVs to buy in 2022
