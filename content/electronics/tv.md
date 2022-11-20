@@ -7,7 +7,7 @@ description: Best TVs to buy in 2022
 ---
 <link rel="stylesheet" href="/styles.css">
 
-# Under $1300 | ₹1,00,000
+# Under $1300 | ₹1,10,000
 ___
 
 > Due to demand and OLED yeilds, prices may fluctuate
