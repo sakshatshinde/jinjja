@@ -2,7 +2,7 @@
 title: "🛒Amazon"
 date: 2022-10-04T19:55:41+05:30
 draft: false
-featured_image: "images/other/prime_music.jpg"
+featured_image: "images/other/prime_music.webp"
 description: Amazon Promotions
 # tags: [electronics]
 # categories: audio
@@ -11,7 +11,7 @@ description: Amazon Promotions
 
 ## Amazon Prime Music
 
-![Amazon](/images/other/prime_music_banner.jpg)
+![Amazon](/images/other/prime_music_banner.webp)
 
 <button class="button-58" role="button" onclick="location.href='http://amazon.in/music/prime?tag=jinjja-21'">Try Prime Music for free</button>
 
@@ -20,7 +20,7 @@ ___
 
 ## Amazon Prime
 
-![Amazon](/images/other/prime_banner.jpg)
+![Amazon](/images/other/prime_banner.webp)
 
 > Well, I am sure you know what Amazon Prime is.
 
@@ -29,7 +29,7 @@ ___
 
 ## Audible
 
-![Amazon](/images/other/audible_post.jpg)
+![Amazon](/images/other/audible_post.webp)
 
 > Audible is a subscription-driven audiobook service with a catalog of over 200,000 audiobooks and a mix of bestselling Indian and international authors. 
 
@@ -40,7 +40,7 @@ ___
 
 ## PrimeVideo
 
-![Amazon](/images/other/primevideo.jpg)
+![Amazon](/images/other/primevideo.webp)
 
 > PrimeVideo and Amazon Prime Music are both included in Amazon Prime
 
