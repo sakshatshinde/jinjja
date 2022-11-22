@@ -20,11 +20,11 @@ ___
 - Don't worry about overshoot on this model ❤️
 ___
 
-![AOC 24G2U](/images/electronics/monitors/aoc_24g2u.jpg)
+![AOC 24G2U](/images/electronics/monitors/aoc_24g2u.webp)
 
 > Please turn on Overdrive to reduce ghosting 
 
-![AOC](/images/electronics/monitors/aoc_24g2u_banner.jpg)
+![AOC](/images/electronics/monitors/aoc_24g2u_banner.webp)
 
 ___
 
