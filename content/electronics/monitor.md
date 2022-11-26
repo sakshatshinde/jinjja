@@ -33,7 +33,6 @@ ___
 
 <button class="button-58" role="button" onclick="location.href='https://amzn.to/3hBe848'" >Buy on Amazon 🛍️</button>
 
-_Please consider buying products via the links mentioned above - it helps us fund this website at no extra cost to you_
 
 <!-- AOC 24G2U -->
 <a href="https://www.amazon.in/AOC-24G2U-BK-Response-Adjustment/dp/B09NPXNB8K?crid=3B3L4Q338OCGU&keywords=AOC+24G2U&qid=1668176457&qu=eyJxc2MiOiIyLjEzIiwicXNhIjoiMC45MyIsInFzcCI6IjAuMDAifQ%3D%3D&s=computers&sprefix=%2Ccomputers%2C647&sr=1-2&linkCode=li1&tag=jinjja-21&linkId=ba3d3a5ce6d7c757e23d7826502489f4&language=en_IN&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09NPXNB8K&Format=_SL110_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=jinjja-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=jinjja-21&language=en_IN&l=li1&o=31&a=B09NPXNB8K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
