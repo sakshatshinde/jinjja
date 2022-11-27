@@ -20,7 +20,7 @@ ___
 - Widevine L1
 ___
 
-![Samsung S20 FE 5G](/images/electronics/s20_fe_5g.webp)
+![Samsung S20 FE 5G](/images/electronics/phones/s20_fe_5g.webp)
 
 ___
 
@@ -49,7 +49,7 @@ ___
 
 > Google devices are known to have software issues
 
-![Google Pixel 6a 5G](/images/electronics/pixel_6a_5g.webp)
+![Google Pixel 6a 5G](/images/electronics/phones/pixel_6a_5g.webp)
 
 <!-- | _Google Pixel 6a 5G_ | [Amazon](https://amzn.to/3SzzVGh) |
 |----|---| -->
@@ -77,7 +77,7 @@ ___
 - Widevine L1
 ___
 
-![Samsung S21 FE 5G](/images/electronics/S21FE_Carousel_GroupKV1_PC.webp)
+![Samsung S21 FE 5G](/images/electronics/phones/S21FE_Carousel_GroupKV1_PC.webp)
 
 ___
 

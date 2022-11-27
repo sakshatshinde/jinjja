@@ -2,7 +2,7 @@
 title: "📺TVs"
 date: 2022-11-20T08:55:41+05:30
 draft: false
-featured_image: "/images/electronics/TV/tv_banner.webp"
+featured_image: "/images/electronics/tv/tv_banner.webp"
 description: Best TVs to buy in 2022
 ---
 <link rel="stylesheet" href="/styles.css">
@@ -23,7 +23,7 @@ ___
 - AV1 Decoding ❤️
 ___
 
-![LG A2](/images/electronics/TV/lg_a2.webp)
+![LG A2](/images/electronics/tv/lg_a2.webp)
 
 `Image Credit: rtings`
 ___
@@ -48,7 +48,7 @@ ___
 - AV1 Decoding ❤️
 ___
 
-![LG C2](/images/electronics/TV/lg_c2.webp)
+![LG C2](/images/electronics/tv/lg_c2.webp)
 ___
 
 <button class="button-58" role="button" onclick="location.href='https://amzn.to/3TQfEgj'" >Buy on Amazon 🛍️</button>
@@ -70,7 +70,7 @@ ___
 - HDMI 2.0, CEC, Arc
 ___
 
-![U6G](/images/electronics/TV/U6G.webp)
+![U6G](/images/electronics/tv/U6G.webp)
 ___
 
 <button class="button-58" role="button" onclick="location.href='https://amzn.to/3U6H55v'" >Buy on Amazon 🛍️</button>
