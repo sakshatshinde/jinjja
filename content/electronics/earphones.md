@@ -1,6 +1,6 @@
 ---
 title: "🎶Earphones"
-date: 2022-10-30T11:55:41+05:30
+date: 2022-12-09T11:55:41+05:30
 draft: false
 featured_image: "images/electronics/earphones_banner.webp"
 description: Best earphones to buy in 2022
@@ -43,13 +43,26 @@ ___
 
 ![Credit Crinacle](/images/electronics/fr_moondrop_chu.webp)
 
-<!-- | Moondrop - Chu | [Amazon](https://amzn.to/3TCoNKb) | 
-|--|--| -->
-
 <button class="button-58" role="button" onclick="location.href='https://amzn.to/3TCoNKb'" >Buy on Amazon 🛍️</button>
 
 <!-- Moondrop - Chu Amazon Small embed -->
 <a href="https://www.amazon.in/Moondrop-CHU-Performance-Dynamic-Earphone/dp/B09XHTHG61?qu=eyJxc2MiOiIyLjkyIiwicXNhIjoiMi4yMyIsInFzcCI6IjAuNTkifQ%3D%3D&linkCode=li1&tag=jinjja-21&linkId=f0609bfb927434b64d931a66d25e4934&language=en_IN&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09XHTHG61&Format=_SL110_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=jinjja-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=jinjja-21&language=en_IN&l=li1&o=31&a=B09XHTHG61" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+### CCA - CRA
+- V-shaped IEM ⚡
+- OFC cable
+- Best value for money
+- Dynamic Driver
+- Has a Mic ❤️
+
+`Frequency Response CCA - CRA` | `Credit Crinacle`
+
+![Credit Crinacle](/images/electronics/earphones/CRA.webp)
+
+<button class="button-58" role="button" onclick="location.href='https://amzn.to/3iA44ck'" >Buy on Amazon 🛍️</button>
+
+<!--CCA - CRA Amazon Small embed -->
+<a href="https://www.amazon.in/CCA-Ultra-Thin-Diaphragm-Tangle-Free-Removable/dp/B09NNGNNFV?crid=1A3BVM7HDVJ8Q&keywords=cca+cra&qid=1670747646&sprefix=cca+cr%2Caps%2C187&sr=8-4&linkCode=li1&tag=jinjja-21&linkId=92b6fd5498b76bfc8018284a0ed0e84b&language=en_IN&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09NNGNNFV&Format=_SL110_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=jinjja-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=jinjja-21&language=en_IN&l=li1&o=31&a=B09NNGNNFV" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 ___
 
 # Under $60 | ₹5000
