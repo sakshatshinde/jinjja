@@ -26,10 +26,13 @@ ___
 
 > These might be a bit bass heavy - however the normal mode in the app makes them sound decent
 
-<button class="button-58" role="button" onclick="location.href='https://amzn.to/3gK3Zle'" >Buy on Amazon</button>
+> In case the price has shot up due to supply chain issues, we also recommend an alternative [Oppo Enco Buds](https://amzn.to/3VREX3c)
+
+<button class="button-58" role="button" onclick="location.href='https://amzn.to/3gK3Zle'" >Buy Realme Buds Q2</button> <button class="button-58" role="button" onclick="location.href='https://amzn.to/3VREX3c'" >Buy Oppo Enco Buds</button>
 
 <!-- Realme Buds Q2 Amazon Small embed -->
-<a href="https://www.amazon.in/realme-Active-Noise-Cancellation-Earphones/dp/B091G8TJ33?crid=3U26MJBBF514K&keywords=realme+buds+q2&qid=1666762545&qu=eyJxc2MiOiIyLjc0IiwicXNhIjoiMi4wNSIsInFzcCI6IjEuODAifQ%3D%3D&s=electronics&sprefix=%2Celectronics%2C706&sr=1-1&linkCode=li1&tag=jinjja-21&linkId=43ac1c5759528053cfaab7a2c263a004&language=en_IN&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B091G8TJ33&Format=_SL110_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=jinjja-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=jinjja-21&language=en_IN&l=li1&o=31&a=B091G8TJ33" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.in/realme-Active-Noise-Cancellation-Earphones/dp/B091G8TJ33?crid=3U26MJBBF514K&keywords=realme+buds+q2&qid=1666762545&qu=eyJxc2MiOiIyLjc0IiwicXNhIjoiMi4wNSIsInFzcCI6IjEuODAifQ%3D%3D&s=electronics&sprefix=%2Celectronics%2C706&sr=1-1&linkCode=li1&tag=jinjja-21&linkId=43ac1c5759528053cfaab7a2c263a004&language=en_IN&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B091G8TJ33&Format=_SL110_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=jinjja-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=jinjja-21&language=en_IN&l=li1&o=31&a=B091G8TJ33" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> <a href="https://www.amazon.in/Bluetooth-Wireless-Supports-Cancellation-Resistant/dp/B09G6LTQ8Q?crid=1YVAMKCDEJB8W&keywords=oppo%2Benco%2Bbuds%2B2&qid=1670135815&sprefix=oppo%2Benco%2Caps%2C332&sr=8-3&th=1&linkCode=li1&tag=jinjja-21&linkId=8337627b9bb94bc8054932cd3efacb51&language=en_IN&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09G6LTQ8Q&Format=_SL110_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=jinjja-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=jinjja-21&language=en_IN&l=li1&o=31&a=B09G6LTQ8Q" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<!-- Oppen Enco Buds Small embed-->
 
 ___
 
