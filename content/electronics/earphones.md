@@ -15,7 +15,7 @@ description: Best earphones to buy in 2022
 # Under $20 | ₹1700
 ___
 
-### Realme Buds Q2
+### **Realme Buds Q2**
 - ANC decent for the price ❤️
 - IPX5 water resistant
 - Bluetooth 5.2
@@ -36,7 +36,9 @@ ___
 
 ___
 
-### Moondrop - Chu
+### **Moondrop - Chu**
+![Moondrop - Chu](/images/electronics/earphones/Moondrop_Chu.webp)
+
 - Very good out of the box tuning, IEMs
 - Flat sound signature ❤️
 - N52 Neodymium drivers
@@ -51,7 +53,9 @@ ___
 <!-- Moondrop - Chu Amazon Small embed -->
 <a href="https://www.amazon.in/Moondrop-CHU-Performance-Dynamic-Earphone/dp/B09XHTHG61?qu=eyJxc2MiOiIyLjkyIiwicXNhIjoiMi4yMyIsInFzcCI6IjAuNTkifQ%3D%3D&linkCode=li1&tag=jinjja-21&linkId=f0609bfb927434b64d931a66d25e4934&language=en_IN&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09XHTHG61&Format=_SL110_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=jinjja-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=jinjja-21&language=en_IN&l=li1&o=31&a=B09XHTHG61" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-### CCA - CRA
+### **CCA - CRA**
+![CCA CRA](/images/electronics/earphones/CCA_CRA.webp)
+
 - V-shaped IEM ⚡
 - OFC cable
 - Best value for money
@@ -71,7 +75,7 @@ ___
 # Under $60 | ₹5000
 ___
 
-### Realme Buds Air 3
+### **Realme Buds Air 3**
 
 - Decent ANC for the price 
 - IPX5 water resistant
