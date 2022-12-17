@@ -89,4 +89,33 @@ ___
 <!-- Samsung S21 FE 5G -->
 <a href="https://www.amazon.in/Samsung-Snapdragon-Phantom-White-Storage/dp/B0BK6XVJ54?crid=NDM1M7LXRDZF&keywords=s21+fe+5g&qid=1666787095&qu=eyJxc2MiOiI0LjA1IiwicXNhIjoiMy45NCIsInFzcCI6IjIuNTgifQ%3D%3D&sprefix=s21%2Caps%2C227&sr=8-4&linkCode=li1&tag=jinjja-21&linkId=04b66cae593d8cc875b3599d9a677ab0&language=en_IN&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0BK6XVJ54&Format=_SL110_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=jinjja-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=jinjja-21&language=en_IN&l=li1&o=31&a=B0BK6XVJ54" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-> S22 FE has been cancelled due to supply shortages in the production of S22 Ultra | [The Elec](https://www.thelec.net/) 🇰🇷
+> S22 FE has been cancelled due to supply shortages in the production of S22 Ultra | [**The Elec**](https://www.thelec.net/) 🇰🇷
+
+___
+
+# Under $700 | ₹55k
+___
+
+### Samsung Galaxy S22 5G
+
+- Qualcomm SM8450 Snapdragon 8 Gen 1
+- 6.1-inch Dynamic AMOLED Display, HDR10+, 1300 nits peak
+- 120 Hz Refresh Rate ❤️
+- IP68 Rated ❤️
+- 128GB 6GB RAM, 256GB 8GB RAM, USB Type-C 3.2
+- 45W Super Fast Charging ⚡
+- Widevine L1
+- OIS, Auto HDR, 8K24 and 4k60 Video reccording
+___
+
+![Samsung S22 5G](/images/electronics/phones/S22.webp)
+
+___
+
+<!-- | _Samsung S22 5G_ | [Amazon](https://amzn.to/) |
+|----|---| -->
+
+<button class="button-58" role="button" onclick="location.href='https://amzn.to/3hrOsYk'" >Buy on Amazon 🛍️</button>
+
+<!-- Samsung S22 5G -->
+<a href="https://www.amazon.in/Samsung-Phantom-Storage-Additional-Exchange/dp/B09SH8JPCJ?crid=1QGCKUKR9THHB&keywords=Galaxy%2Bs22&qid=1671254367&sprefix=galaxy%2Bs2%2Caps%2C277&sr=8-5&th=1&linkCode=li1&tag=jinjja-21&linkId=6391a240efce2c42c35be0bd79eb6177&language=en_IN&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09SH8JPCJ&Format=_SL110_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=jinjja-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=jinjja-21&language=en_IN&l=li1&o=31&a=B09SH8JPCJ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
