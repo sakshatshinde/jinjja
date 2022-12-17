@@ -1,6 +1,6 @@
 ---
 title: "📱Phones"
-date: 2022-10-26T19:00:41+05:30
+date: 2022-12-17T19:00:41+05:30
 draft: false
 featured_image: "/images/electronics/banner_phones.webp"
 description: Best phones to buy in 2022
