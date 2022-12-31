@@ -3,7 +3,7 @@ title: "🖥️Monitors"
 date: 2022-11-18T08:55:41+05:30
 draft: false
 featured_image: "/images/electronics/monitors/main-hero-banner.webp"
-description: Best Monitors to buy in 2022
+description: Best Monitors to buy in 2023
 ---
 <link rel="stylesheet" href="/styles.css">
 

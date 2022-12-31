@@ -3,7 +3,7 @@ title: "⌚Smartwatches"
 date: 2022-10-26T10:55:41+05:30
 draft: false
 featured_image: "/images/electronics/smartwatches_banner.webp"
-description: Best smartwatches to buy in 2022
+description: Best smartwatches to buy in 2023
 ---
 <link rel="stylesheet" href="/styles.css">
 

@@ -3,7 +3,7 @@ title: "📱Phones"
 date: 2022-12-17T08:00:41+05:30
 draft: false
 featured_image: "/images/electronics/banner_phones.webp"
-description: Best phones to buy in 2022
+description: Best phones to buy in 2023
 ---
 <link rel="stylesheet" href="/styles.css">
 

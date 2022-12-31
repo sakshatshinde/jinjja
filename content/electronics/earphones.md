@@ -3,7 +3,7 @@ title: "🎶Earphones"
 date: 2022-12-09T11:55:41+05:30
 draft: false
 featured_image: "images/electronics/earphones_banner.webp"
-description: Best earphones to buy in 2022
+description: Best earphones to buy in 2023
 # tags: [electronics]
 # categories: audio
 ---

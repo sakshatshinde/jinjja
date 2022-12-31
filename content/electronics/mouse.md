@@ -3,7 +3,7 @@ title: "🖱️Mouse"
 date: 2022-11-12T08:55:41+05:30
 draft: false
 featured_image: "images/electronics/mouse_banner.webp"
-description: Best mouse to buy in 2022
+description: Best mouse to buy in 2023
 ---
 <link rel="stylesheet" href="/styles.css">
 
