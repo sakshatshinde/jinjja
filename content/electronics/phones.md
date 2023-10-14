@@ -32,11 +32,6 @@ ___
 <button class="button-58" role="button" onclick="location.href='https://amzn.to/3PVUi15'" >Buy on Amazon 🛍️</button>
 
 <a href="https://www.amazon.in/Motorola-Eclipse-Black-256GB-Storage/dp/B0C9JHXMPY?crid=VBGAZGF79M89&keywords=motorola+edge+40&qid=1697283793&sprefix=motorola%2Caps%2C184&sr=8-3&linkCode=li2&tag=jinjja-21&linkId=07af3dfcd75d4fe14b3bc9fcf54c1c66&language=en_IN&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0C9JHXMPY&Format=_SL160_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=jinjja-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=jinjja-21&language=en_IN&l=li2&o=31&a=B0C9JHXMPY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-<!-- > Consider buying a Samsung for features like [_Bixby Routines_](https://www.samsung.com/global/galaxy/what-is/bixby-routines/) and [_Samsung Dex_](https://www.samsung.com/in/apps/samsung-dex/) -->
-
-
-
 ___
 
 # Under $400 | ₹35000
@@ -51,7 +46,7 @@ ___
 - Widevine L1
 - Five years of Pixel updates ❤️
 
-> Google devices are known to have software issues
+> Google devices are known to have software issues and bad battery life 💔
 
 ![Google Pixel 6a 5G](/images/electronics/phones/pixel_7a.webp)
 
@@ -76,6 +71,9 @@ ___
 - 45W Super Fast Charging ⚡
 - Widevine L1
 - OIS, Auto HDR, 8K24 Video reccording
+
+> Consider buying a Samsung for features like [_Bixby Routines_](https://www.samsung.com/global/galaxy/what-is/bixby-routines/) and [_Samsung Dex_](https://www.samsung.com/in/apps/samsung-dex/)
+
 ___
 
 ![Samsung S23 FE](/images/electronics/phones/s23_fe.webp)
@@ -84,5 +82,5 @@ ___
 
 <button class="button-58" role="button" onclick="location.href='https://amzn.to/3tsDfMt'" >Buy on Amazon 🛍️</button>
 
-<!-- Samsung S23 FE -->
+
 <a href="https://www.amazon.in/Samsung-Galaxy-Graphite-128GB-Storage/dp/B0CJ4SCY75?crid=2QJU1MU3J2MG8&keywords=s23+fe&qid=1697282736&sprefix=s23+f%2Caps%2C188&sr=8-2&linkCode=li2&tag=jinjja-21&linkId=7b2ef206873fb55fb2f864a88b2d18a6&language=en_IN&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0CJ4SCY75&Format=_SL160_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=jinjja-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=jinjja-21&language=en_IN&l=li2&o=31&a=B0CJ4SCY75" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
