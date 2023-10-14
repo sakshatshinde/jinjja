@@ -23,21 +23,19 @@ ___
 - 4400 mAh Battery, 68W Charging
 ___
 
+> Consider owning a Motorola for features like _TurboPower_ and _ThinkShield_
+
 ![Motorola Edge 40](/images/electronics/phones/motorola_edge_40.webp)
 
 ___
 
-<!-- | _Samsung S20 FE 5G_ | [Amazon](https://amzn.to/3W5RReM) |
-|----|---| -->
-
 <button class="button-58" role="button" onclick="location.href='https://amzn.to/3PVUi15'" >Buy on Amazon 🛍️</button>
 
-<!-- Samsung S20 FE 5G -->
-<a href="https://www.amazon.in/Motorola-Edge-Lunar-256GB-Storage/dp/B0C9JHXMPY?crid=3CKDDD4OGTBP4&keywords=motorola%2Bedge%2B40&qid=1697281453&sprefix=motor%2Caps%2C192&sr=8-5&th=1&linkCode=li2&tag=jinjja-21&linkId=cfda8e021ddc6b4a8d702cb8c4b3d828&language=en_IN&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0C9JHXMPY&Format=_SL160_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=jinjja-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=jinjja-21&language=en_IN&l=li2&o=31&a=B0C9JHXMPY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.in/Motorola-Eclipse-Black-256GB-Storage/dp/B0C9JHXMPY?crid=VBGAZGF79M89&keywords=motorola+edge+40&qid=1697283793&sprefix=motorola%2Caps%2C184&sr=8-3&linkCode=li2&tag=jinjja-21&linkId=07af3dfcd75d4fe14b3bc9fcf54c1c66&language=en_IN&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0C9JHXMPY&Format=_SL160_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=jinjja-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=jinjja-21&language=en_IN&l=li2&o=31&a=B0C9JHXMPY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 <!-- > Consider buying a Samsung for features like [_Bixby Routines_](https://www.samsung.com/global/galaxy/what-is/bixby-routines/) and [_Samsung Dex_](https://www.samsung.com/in/apps/samsung-dex/) -->
 
-> Consider owning a Motorola for features like _TurboPower_ and _ThinkShield_
+
 
 ___
 
@@ -59,8 +57,6 @@ ___
 
 <button class="button-58" role="button" onclick="location.href='https://amzn.to/3tBCPnm'" >Buy on Amazon 🛍️</button>
 
-
-<!-- Google Pixel 6a 5G -->
 <a href="https://www.amazon.in/Pixel-Sea-8GB-128GB-Storage/dp/B0CJMB7HVQ?crid=1860Y90ZHHQS0&keywords=pixel+7a&qid=1697282335&sprefix=pixel+7%2Caps%2C185&sr=8-1&linkCode=li2&tag=jinjja-21&linkId=2990df40b1bd9f4ee849db5e95c5dc1a&language=en_IN&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0CJMB7HVQ&Format=_SL160_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=jinjja-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=jinjja-21&language=en_IN&l=li2&o=31&a=B0CJMB7HVQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 > Consider buying a Pixel for features like [_Call Screen_](https://support.google.com/phoneapp/answer/9118387?hl=en) and [_Face Unblur_](https://www.androidauthority.com/face-photo-unblur-pixel-3217580/)
